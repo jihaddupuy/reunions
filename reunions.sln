@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reunions", "reunions\reunions.csproj", "{21CCD9E9-546B-44D7-8418-8851F84C31A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reunions.Tests", "TestProject2\Reunions.Tests.csproj", "{F3B6805B-C688-4BDD-B590-3B33D39A956A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CCD9E9-546B-44D7-8418-8851F84C31A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CCD9E9-546B-44D7-8418-8851F84C31A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CCD9E9-546B-44D7-8418-8851F84C31A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CCD9E9-546B-44D7-8418-8851F84C31A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B6805B-C688-4BDD-B590-3B33D39A956A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B6805B-C688-4BDD-B590-3B33D39A956A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B6805B-C688-4BDD-B590-3B33D39A956A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B6805B-C688-4BDD-B590-3B33D39A956A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9539D7C-FB2B-44E7-857E-0198A9C526E5}
+	EndGlobalSection
+EndGlobal

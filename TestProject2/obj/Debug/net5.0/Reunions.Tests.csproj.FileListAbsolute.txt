@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\reunions\TestProject2\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\student\source\repos\reunions\TestProject2\obj\Debug\net5.0\Reunions.Tests.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\reunions\TestProject2\obj\Debug\net5.0\Reunions.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\reunions\TestProject2\obj\Debug\net5.0\Reunions.Tests.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\reunions\TestProject2\obj\Debug\net5.0\Reunions.Tests.AssemblyInfo.cs
+C:\Users\student\source\repos\reunions\TestProject2\obj\Debug\net5.0\Reunions.Tests.csproj.CoreCompileInputs.cache
